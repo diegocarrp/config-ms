@@ -1,0 +1,8 @@
+rooms:
+    build-version: 1
+    mailDetails:
+        from: default-alfredo@gmail.com
+        hostName: default-alfredo@gmail.com
+        port: 6420
+        subject: Your Reservations is ready
+    msg: Welcome to the Reservations Hotels applications
